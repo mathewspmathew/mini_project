@@ -23,7 +23,7 @@ class _SignUpState extends State<SignUp> {
         ),
         centerTitle: true,
         flexibleSpace: Container(
-          decoration: const BoxDecoration(
+          decoration: const BoxDecoration( 
               borderRadius: BorderRadius.only(
                   bottomLeft: Radius.circular(180),
                   bottomRight: Radius.circular(180)),
